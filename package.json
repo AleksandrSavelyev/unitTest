@@ -1,0 +1,23 @@
+{
+  "name": "sasha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Array.js",
+  "scripts": {
+    "test": "mocha ./src/**/tests/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrSavelyev/homeWorkJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/AleksandrSavelyev/homeWorkJS.git"
+  },
+  "homepage": "git+https://github.com/AleksandrSavelyev/homeWorkJS.git",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
